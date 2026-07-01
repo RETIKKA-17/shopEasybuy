@@ -2,7 +2,7 @@
 
  # 🛒 ShopEasyBuy - E-Commerce Website
 
-ShopEasyBuy is a responsive e-commerce website developed using **HTML5**, **CSS3**, and **JavaScript**. It provides a simple online shopping experience with an attractive user interface and interactive features.
+ShopEasyBuy is a responsive e-commerce website developed using **HTML5**, **CSS3**, and **JavaScript**. It provides a simple online shopping experience with an attractive user interface and interactive features
 
 
 
